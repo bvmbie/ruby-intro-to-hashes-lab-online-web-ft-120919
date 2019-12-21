@@ -1,5 +1,5 @@
 def new_hash
-  
+  flatiron_school = {instructor: ""}
 end
 
 def actor
